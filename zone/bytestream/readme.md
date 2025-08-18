@@ -1,4 +1,4 @@
-### Поток байтов (ByteStream)
+# Поток байтов (ByteStream)
 
 ### zone.byteStream.new()
 
