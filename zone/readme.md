@@ -43,7 +43,7 @@
 
 -   [**zone.system**](system/readme.md) — системные функции.
 -   [**zone.byteStream**](bytestream/readme.md) — работа с бинарными данными.
--   [**zone.socket**](socket/readme) — все, что связано с TCP соединениями.
+-   [**zone.socket**](socket/readme.md) — все, что связано с TCP соединениями.
 
 </details>
 
