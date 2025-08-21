@@ -42,8 +42,10 @@
 <summary>Пространства имен</summary>
 
 -   [**zone.system**](system/readme.md) — системные функции.
+-   [**zone.event**](event/readme.md) — функции связанные с событиями.
+-   [**zone.graphics**](graphics/readme.md) — работа с графикой.
 -   [**zone.byteStream**](bytestream/readme.md) — работа с бинарными данными.
--   [**zone.socket**](socket/readme.md) — все, что связано с TCP соединениями.
+-   [**zone.socket**](socket/readme.md) — всё, что связано с TCP соединениями.
 
 </details>
 
